@@ -19,14 +19,15 @@ fn main() {
 ```
 
 
-## Skills & Expertise
+### Skills
 
-Here are some of the technologies I specialize in:
 
-- ![Rust](https://img.shields.io/badge/-Rust-black?style=flat-square&logo=rust) **Rust** - Proficient in writing safe and efficient code.
-- ![Substrate](https://img.shields.io/badge/-Substrate-black?style=flat-square&logo=paritysubstrate) **Substrate** - Experienced in developing blockchain solutions.
-- ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react) **React** - Skilled in building responsive user interfaces.
-- ![Svelte](https://img.shields.io/badge/-Svelte-black?style=flat-square&logo=svelte) **Svelte** - Expert in creating fast and interactive web applications.
+<p align="left">
+  <img src="https://img.shields.io/badge/-Rust-black?style=flat-square&logo=rust" alt="Rust" width="60" height="60"/>
+  <img src="https://img.shields.io/badge/-Substrate-black?style=flat-square&logo=paritysubstrate" alt="Substrate" width="60" height="60"/>
+  <img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react" alt="React" width="60" height="60"/>
+  <img src="https://img.shields.io/badge/-Svelte-black?style=flat-square&logo=svelte" alt="Svelte" width="60" height="60"/>
+</p>
 
 
 
