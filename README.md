@@ -19,15 +19,6 @@ fn main() {
 ```
 
 
-### Skills
-
-
-<p align="left">
-  <img src="https://img.shields.io/badge/-Rust-black?style=flat-square&logo=rust" alt="Rust" width="60" height="60"/>
-  <img src="https://img.shields.io/badge/-Substrate-black?style=flat-square&logo=paritysubstrate" alt="Substrate" width="60" height="60"/>
-  <img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react" alt="React" width="60" height="60"/>
-  <img src="https://img.shields.io/badge/-Svelte-black?style=flat-square&logo=svelte" alt="Svelte" width="60" height="60"/>
-</p>
 
 
 
