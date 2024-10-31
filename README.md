@@ -1,16 +1,33 @@
-## Hi there 👋
+# In my mind 🍀
 
-<!--
-**hylcore-Z/hylcore-Z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```rust
 
-Here are some ideas to get you started:
+struct Visionary {
+    name: String,
+    quote: String,
+}
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+impl Visionary {
+    /// Constructs a new `Visionary`.
+    fn new(name: &str, quote: &str) -> Self {
+        Self {
+            name: name.to_owned(),
+            quote: quote.to_owned(),
+        }
+    }
+
+    /// Returns the quote of the visionary.
+    fn quote(&self) -> &str {
+        &self.quote
+    }
+}
+
+fn main() {
+    let gavin_wood = Visionary::new(
+        "Gavin Wood",
+        "In software, we’re not constrained by physical reality; \
+         the only limits are the limits of our own imagination."
+    );
+
+    println!("{} says: \"{}\"", gavin_wood.name, gavin_wood.quote());
+}
